@@ -1,0 +1,6 @@
+import cn.hutool.core.lang.ParameterizedTypeImpl;
+public class FunctionUse3129 {
+public void funcUse() {
+ParameterizedTypeImpl parameterizedtypeimpl = new ParameterizedTypeImpl();
+}
+}
